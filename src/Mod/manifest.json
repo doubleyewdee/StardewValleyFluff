@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Stardew Valley Fluffmods",
+  "Author": "Chip Locke",
+  "Version": {
+    "MajorVersion": 1,
+    "MinorVersion": 0,
+    "PatchVersion": 0,
+    "Build": null
+  },
+  "Description": "A variety of modest quality-of-life changes to Stardew Valley. Aspirational / play code.",
+  "UniqueID": "wd.stardewvalleyfluff",
+  "EntryDll": "StardewValleyFluff.dll"
+}
